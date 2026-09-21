@@ -1,5 +1,3 @@
-<h1 align="center">🩺 MedLog</h1>
-
 <p align="center">
   <img src="MedLog.png" alt="MedLog Logo" width="300">
 </p>
