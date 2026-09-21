@@ -1,6 +1,9 @@
 <div align="center">
-
-# 🩺 MedLog
+<p align="center">
+  <img src="MedLog.png" alt="Med|Log Logo" style="max-width: 100%; height: auto; >
+</p>
+    
+---
 
 **An Expert System for Medical Diagnosis, Emergency Detection, and Lifestyle Advice**
 
