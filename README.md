@@ -1,18 +1,16 @@
-<div align="center">
-  
-# 🩺 MedLog
+<h1 align="center">🩺 MedLog</h1>
 
 <p align="center">
-  <img src="MedLog.png" alt="Med|Log Logo" style="max-width: 100%; height: auto; >
+  <img src="MedLog.png" alt="MedLog Logo" width="300">
 </p>
-    
----
 
-**An Expert System for Medical Diagnosis, Emergency Detection, and Lifestyle Advice**
+<p align="center">
+  <strong>An Expert System for Medical Diagnosis, Emergency Detection, and Lifestyle Advice</strong>
+</p>
 
-MedLog is a rule-based expert system written in **SWI-Prolog**. It models a small medical knowledge base of patients, symptoms, and diseases, then uses logical inference to diagnose conditions, flag emergencies, suggest treatments, and offer lifestyle and preventive advice.
-
-</div>
+<p align="center">
+  MedLog is a rule-based expert system written in <b>SWI-Prolog</b>. It models a small medical knowledge base of patients, symptoms, and diseases, then uses logical inference to diagnose conditions, flag emergencies, suggest treatments, and offer lifestyle and preventive advice.
+</p>
 
 ---
 
@@ -34,10 +32,11 @@ MedLog is a rule-based expert system written in **SWI-Prolog**. It models a smal
 
 | File | Description |
 |------|-------------|
-| `MedLog SWI-Prolog.pl` | The Prolog knowledge base and inference rules |
-| `MedLog Knowledge Base Diagram.png` | Visual overview of the knowledge base |
-| `MedLog.pdf` | Project documentation / report |
-| `LICENSE` | Apache-2.0 license |
+| [`MedLog SWI-Prolog.pl`](MedLog%20SWI-Prolog.pl) | The Prolog knowledge base and inference rules |
+| [`MedLog Knowledge Base Diagram.png`](MedLog%20Knowledge%20Base%20Diagram.png) | Visual overview of the knowledge base |
+| [`MedLog.png`](MedLog.png) | Project logo |
+| [`MedLog.pdf`](MedLog.pdf) | Project documentation / report |
+| [`LICENSE`](LICENSE) | Apache-2.0 license |
 
 ---
 
@@ -106,6 +105,24 @@ This project is licensed under the **Apache-2.0 License** — see the [LICENSE](
 
 ---
 
-## 👤 Author
+<p align="center">
+  <a href="https://github.com/bokhtearmdabid">
+    <img src="https://github.com/bokhtearmdabid.png" width="100" alt="Bokhtear Md Abid" style="border-radius: 50%;">
+  </a>
+</p>
 
-**[bokhtearmdabid](https://github.com/bokhtearmdabid)**
+<h3 align="center">Bokhtear Md Abid</h3>
+
+<p align="center">
+  Developer of MedLog, an expert system built with SWI-Prolog to explore rule-based reasoning in healthcare.
+</p>
+
+<p align="center">
+  <a href="https://github.com/bokhtearmdabid">
+    <img src="https://img.shields.io/badge/GitHub-bokhtearmdabid-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <sub>If you found this project useful, consider giving it a ⭐ on GitHub!</sub>
+</p>
